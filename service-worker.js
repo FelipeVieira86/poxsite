@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/poxsite/precache-manifest.672f20c44770c836658e71232ddae052.js"
+  "/poxsite/precache-manifest.96fa7b69db21414dc7547ccc108715f9.js"
 );
 
 self.addEventListener('message', (event) => {
