@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/poxsite/static/css/main.18dc0b9c.chunk.css",
-    "main.js": "/poxsite/static/js/main.fac405ba.chunk.js",
-    "main.js.map": "/poxsite/static/js/main.fac405ba.chunk.js.map",
+    "main.js": "/poxsite/static/js/main.6c37ebf0.chunk.js",
+    "main.js.map": "/poxsite/static/js/main.6c37ebf0.chunk.js.map",
     "runtime-main.js": "/poxsite/static/js/runtime-main.f6876b61.js",
     "runtime-main.js.map": "/poxsite/static/js/runtime-main.f6876b61.js.map",
     "static/css/2.5a510433.chunk.css": "/poxsite/static/css/2.5a510433.chunk.css",
     "static/js/2.87006fd9.chunk.js": "/poxsite/static/js/2.87006fd9.chunk.js",
     "static/js/2.87006fd9.chunk.js.map": "/poxsite/static/js/2.87006fd9.chunk.js.map",
     "index.html": "/poxsite/index.html",
-    "precache-manifest.ebad2a261095399b5bd6d4cde026a8cb.js": "/poxsite/precache-manifest.ebad2a261095399b5bd6d4cde026a8cb.js",
+    "precache-manifest.fe198ff510ae6245ee56465e8caf2245.js": "/poxsite/precache-manifest.fe198ff510ae6245ee56465e8caf2245.js",
     "service-worker.js": "/poxsite/service-worker.js",
     "static/css/2.5a510433.chunk.css.map": "/poxsite/static/css/2.5a510433.chunk.css.map",
     "static/css/main.18dc0b9c.chunk.css.map": "/poxsite/static/css/main.18dc0b9c.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.5a510433.chunk.css",
     "static/js/2.87006fd9.chunk.js",
     "static/css/main.18dc0b9c.chunk.css",
-    "static/js/main.fac405ba.chunk.js"
+    "static/js/main.6c37ebf0.chunk.js"
   ]
 }
