@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "64c151f10a0c47acc56acfc3954cb054",
+    "revision": "ca0d804df11d2c6fbe5d05ed07c43f01",
     "url": "/poxsite/index.html"
   },
   {
