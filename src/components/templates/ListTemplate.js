@@ -113,9 +113,9 @@ class List extends Component {
           >
             Prev
           </Button>
-          {/* <div>
+          <div>
             {page} / {this.totalPages}
-          </div> */}
+          </div>
           <Button
             onClick={({ target }) => {
               this.changePage(target);
